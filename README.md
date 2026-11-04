@@ -96,11 +96,12 @@ It allows AI models to safely communicate with and control your local security t
 - [Agno](https://github.com/agno-agi/agno) – Lightweight, high-performance library for building agents.
 
 ### 🛡️ Security-Focused Tools
-- [CAI (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) – Open-source Bug Bounty-ready AI with hierarchical agentic patterns.
-- [AgentFence](https://github.com/agentfence/agentfence) – Platform for testing AI agent security vulnerabilities.
-- [AICA Agent](https://github.com/aica-iwg/aica-agent) – Autonomous intelligent cyberdefense agent.
-- [Pentagi](https://github.com/vxcontrol/pentagi) – Fully autonomous AI-powered penetration testing agent.
-- [Agentic Security Scanner](https://github.com/msoedov/agentic_security) – Vulnerability scanner for Agent Workflows and LLMs.
+- [AgentFence](https://github.com/agentfence/agentfence) - Platform for testing AI agent security vulnerabilities.
+- [Agentic Security Scanner](https://github.com/msoedov/agentic_security) - Vulnerability scanner for agent workflows and LLMs.
+- [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent.
+- [CAI (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source bug bounty AI with hierarchical agent patterns.
+- [HOL Guard](https://hol.org/guard) - Open-source, local-first security checks for AI agent plugins, skills and MCP servers, with policy enforcement in supported agent integrations.
+- [Pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered penetration testing agent.
 ## 🤝 Contributing
 Want to add your MCP or improve this list?  
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
